@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+  <title id="title">Prem Mallah</title>
+  <desc id="desc">AI/ML engineer. Computer vision, infrastructure and production systems.</desc>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#25313e" stroke-width="1"/></pattern>
+  </defs>
+  <rect width="1200" height="280" rx="16" fill="#101820"/>
+  <rect x="780" width="420" height="280" fill="url(#grid)"/>
+  <path d="M862 200V140H942V80H1062V140H1142" fill="none" stroke="#67d8bc" stroke-width="2" opacity=".75"/>
+  <g fill="#101820" stroke="#67d8bc" stroke-width="2"><circle cx="862" cy="200" r="7"/><circle cx="942" cy="140" r="7"/><circle cx="1062" cy="80" r="7"/><circle cx="1142" cy="140" r="7"/></g>
+  <rect x="48" y="49" width="36" height="4" rx="2" fill="#67d8bc"/>
+  <text x="48" y="116" fill="#f2f5f7" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="700">Prem Mallah</text>
+  <text x="50" y="163" fill="#67d8bc" font-family="Arial, Helvetica, sans-serif" font-size="22">AI/ML ENGINEER</text>
+  <text x="50" y="215" fill="#bbc7d2" font-family="Arial, Helvetica, sans-serif" font-size="21">Computer vision · Infrastructure · Production systems</text>
+</svg>
